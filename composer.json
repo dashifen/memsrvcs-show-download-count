@@ -1,0 +1,25 @@
+{
+  "name": "dashifen/memsrvcs-show-download-count",
+  "description": "Displays the download count for PDFs on the Memoriam Services site",
+  "minimum-stability": "stable",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Dashifen Kees",
+      "email": "dashifen@dashifen.com"
+    }
+  ],
+  "config": {
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Dashifen\\MemSrvcs\\ShowDownloadCount\\": "src"
+    }
+  },
+  "require": {
+    "dashifen/wp-handler": "^9.4"
+  }
+}
