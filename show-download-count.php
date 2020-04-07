@@ -5,7 +5,7 @@
  * Description: Displays the download count for PDFs on the Memoriam Services site.
  * Author URI: mailto:dashifen@dashifen.com
  * Author: David Dashifen Kees
- * Version: 1.0.0
+ * Version: 1.1.0
  *
  * @noinspection PhpStatementHasEmptyBodyInspection
  * @noinspection PhpIncludeInspection
